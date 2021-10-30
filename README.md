@@ -9,6 +9,6 @@
 <img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="200" />
 </a>
 
-![Shop](https://github.com/LuaCoder69/LuaCoder69/blob/main/menu-buy.gif) | <h1>Shop</h1>
+<h1>Shop ![Shop](https://github.com/LuaCoder69/LuaCoder69/blob/main/menu-buy.gif)</h1>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=LuaCoder69&theme=dracula&show_icons=true)](https://teamseas.org/)
