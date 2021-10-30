@@ -11,7 +11,7 @@
 
 <p>
 <h1>Shop</h1>
-<img src="https://github.com/LuaCoder69/LuaCoder69/blob/main/menu-buy.gif" alt="Shop" width="200"/>
+<img src="https://github.com/LuaCoder69/LuaCoder69/blob/main/menu-buy.gif" alt="Shop"/>
 </p>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=LuaCoder69&theme=dracula&show_icons=true)](https://teamseas.org/)
