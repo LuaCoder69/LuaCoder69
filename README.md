@@ -10,7 +10,7 @@
 </a>
 
 <p>
-<h1>Shop</h1>
+<h1>Shop [Deprecated]</h1>
 <img src="https://github.com/LuaCoder69/LuaCoder69/blob/main/menu-buy.gif" alt="Shop"/>
 </p>
 
