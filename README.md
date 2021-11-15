@@ -4,7 +4,7 @@
 - こんにちは、@LuaCoder69です。
 - 👀 上手なコーダーになりたいと思っています。
 
-<iframe class="sandbox-iframe" allowtransparency="true" style="z-index: 1; position: absolute; bottom: -175px; height: 500px; width: 500px; right: -200px; border: none; pointer-events: none; transform: scale(0.75); display: block;" onload="sandboxLoaded(this)" id="sandboxView" src="https://ropro.io/sandbox_test/?user=125603205&amp;wave"></iframe>
+https://ropro.io/sandbox_test/?user=125603205&amp;wave
 
 <p>
 <a href="https://indiafightscorona.giveindia.org">
